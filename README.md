@@ -19,3 +19,6 @@ An AI-powered chatbot that lets you upload PDFs and ask questions about their co
    ```bash
   git clone https://github.com/anu436060-cloud/streamlit-pdf-bot.git
 cd streamlit-pdf-bot
+
+## Live App
+Try it here: https://app-pdf-bot-sqcdfy5gctbzbrz7rswmya.streamlit.app/
