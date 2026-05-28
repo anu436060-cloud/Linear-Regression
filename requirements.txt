@@ -6,3 +6,4 @@ pypdf
 google-generativeai
 python-dotenv
 numpy
+torchvision
